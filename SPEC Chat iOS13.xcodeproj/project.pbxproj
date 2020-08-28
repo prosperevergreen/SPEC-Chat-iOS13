@@ -23,7 +23,6 @@
 		225A040124DD9F1F0033A172 /* MessageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 225A03FF24DD9F1F0033A172 /* MessageCell.swift */; };
 		225A040224DD9F1F0033A172 /* MessageCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 225A040024DD9F1F0033A172 /* MessageCell.xib */; };
 		2296524224E02A6000840D2C /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 2296524124E02A6000840D2C /* IQKeyboardManagerSwift */; };
-		22AFE40E24CC61B50086F420 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 22AFE40D24CC61B50086F420 /* Default-568h@2x.png */; };
 		71BA406B83691A61B156F876 /* Pods_SPEC_Chat_iOS13.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32B575EE4D4870859BD03AD9 /* Pods_SPEC_Chat_iOS13.framework */; };
 /* End PBXBuildFile section */
 
@@ -46,7 +45,6 @@
 		225A03FD24DD55220033A172 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Message.swift; path = "SPEC Chat iOS13/Message.swift"; sourceTree = SOURCE_ROOT; };
 		225A03FF24DD9F1F0033A172 /* MessageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageCell.swift; sourceTree = "<group>"; };
 		225A040024DD9F1F0033A172 /* MessageCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MessageCell.xib; sourceTree = "<group>"; };
-		22AFE40D24CC61B50086F420 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		32B575EE4D4870859BD03AD9 /* Pods_SPEC_Chat_iOS13.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SPEC_Chat_iOS13.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEB07572FF09C5FB4BF0D579 /* Pods-SPEC Chat iOS13.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPEC Chat iOS13.release.xcconfig"; path = "Target Support Files/Pods-SPEC Chat iOS13/Pods-SPEC Chat iOS13.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,7 +65,6 @@
 		0B62816A235DEE8100E35CAF = {
 			isa = PBXGroup;
 			children = (
-				22AFE40D24CC61B50086F420 /* Default-568h@2x.png */,
 				0B62819D235F0F4D00E35CAF /* README.md */,
 				0B628175235DEE8100E35CAF /* SPEC Chat iOS13 */,
 				0B628174235DEE8100E35CAF /* Products */,
@@ -216,7 +213,6 @@
 				0B628183235DEE8400E35CAF /* LaunchScreen.storyboard in Resources */,
 				0B628180235DEE8400E35CAF /* Assets.xcassets in Resources */,
 				0B62819E235F0F4D00E35CAF /* README.md in Resources */,
-				22AFE40E24CC61B50086F420 /* Default-568h@2x.png in Resources */,
 				0B62817E235DEE8100E35CAF /* Main.storyboard in Resources */,
 				225A040224DD9F1F0033A172 /* MessageCell.xib in Resources */,
 				225A03FA24DB4D1F0033A172 /* GoogleService-Info.plist in Resources */,
